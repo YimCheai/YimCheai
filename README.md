@@ -1,4 +1,4 @@
-<!--<h1 align="center">Hi 👋, I'm Cheaiy</h1>
+<h1 align="center">Hi 👋, I'm Cheaiy</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yimcheai&label=Profile%20views&color=0e75b6&style=flat" alt="yimcheai" /> </p>
 
 - 🔭 I’m currently working on **Music recommendations by type**
@@ -18,8 +18,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yimcheai&show_icons=true&locale=en" alt="yimcheai" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yimcheai&" alt="yimcheai" /></p>
-
-**YimCheai/YimCheai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-

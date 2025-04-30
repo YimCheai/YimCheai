@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Cheaiy💕</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yimcheai&label=Profile%20views&color=0e75b6&style=flat" alt="yimcheai" /> </p>
 
-- 🔭 I’m currently working on **Music recommendations by type**
+- 🔭 I’m currently working on **MediBuddy**
 
 - 📫 How to reach me **s2466@e-mirim.hs.kr**
 

@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?text=✨Welcome&nbsp;to&nbsp;Cheayi's&nbsp;Github💫&fontSize=40&color=0:d1ffed,100:ffd1e9&type=waving&height=250&animation=blinking)
 
-
-
-
 ### 💻 Tech Stacks
 
 <p align="left">
@@ -33,3 +30,5 @@
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
   </a>
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yimcheai&layout=compact)

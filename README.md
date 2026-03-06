@@ -22,10 +22,6 @@
 
 ### 📬 Contact Me
 
-<p align="left">
-  <a href="https://www.instagram.com/ch.xrish/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-  </a>
   <a href="https://velog.io/@chxrish/posts" target="_blank">
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
   </a>

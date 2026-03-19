@@ -1,3 +1,9 @@
+<a href="https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DemBJOq66fqc&theme=stream">
+  <img src="https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DemBJOq66fqc&theme=stream" alt="SoundBadge" />
+</a>
+
+  ---
+
 ### 💻 Tech Stacks
 
 <p align="left">
@@ -15,21 +21,4 @@
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/>
   <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white"/>
 </p>
-
----
-
-### 📬 Contact Me
-
-  <a href="https://velog.io/@chxrish/posts" target="_blank">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
-  </a>
-</p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yimcheai&layout=compact)
-
-  ---
-  
-<a href="https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DemBJOq66fqc&theme=stream">
-  <img src="https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DemBJOq66fqc&theme=stream" alt="SoundBadge" />
-</a>
 </a>

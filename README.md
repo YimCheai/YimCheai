@@ -29,7 +29,7 @@
 
   ---
   
-  <a href="https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dlw3zymFMWf0%26list%3DOLAK5uy_mFKeYEnlp5U2-Z0LDwhr_XxJXYReVshFA%26index%3D4&theme=stream">
-  <img src="https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dlw3zymFMWf0%26list%3DOLAK5uy_mFKeYEnlp5U2-Z0LDwhr_XxJXYReVshFA%26index%3D4&theme=stream" alt="SoundBadge" />
+<a href="https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DemBJOq66fqc&theme=stream">
+  <img src="https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DemBJOq66fqc&theme=stream" alt="SoundBadge" />
 </a>
 </a>

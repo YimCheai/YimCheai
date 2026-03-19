@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?text=✨Welcome&nbsp;to&nbsp;Chaeyi's&nbsp;Github💫&fontSize=40&color=0:d1ffed,100:ffd1e9&type=waving&height=250&animation=blinking)
-
 ### 💻 Tech Stacks
 
 <p align="left">

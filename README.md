@@ -2,7 +2,8 @@
   <img src="https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DemBJOq66fqc&theme=stream" alt="SoundBadge"/>
 </a>
 
----
+<br><br>
+
 
 <details>
 <summary><b>Tech Stacks</b></summary>
